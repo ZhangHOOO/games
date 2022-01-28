@@ -26,7 +26,7 @@ class HomePage extends Component {
             mode="inline"
             selectedKeys={[current]}
           >
-            <Menu.Item key="cosplay">角色扮演</Menu.Item>
+            <Menu.Item key="cosplay">角色扮演角色</Menu.Item>
             <Menu.Item key="actionGame">动作游戏</Menu.Item>
             <Menu.Item key="gunfightGame">枪战游戏</Menu.Item>
 
